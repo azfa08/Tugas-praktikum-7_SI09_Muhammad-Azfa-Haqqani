@@ -1,0 +1,50 @@
+.box1{
+    background-color: red;
+    width: 20%;
+    height: 700px;
+    margin: 2cm 1cm ;
+}
+
+.box2{
+    background-color: black;
+    width: 20%;
+    height: 700px;
+    margin: 2cm 1cm ;
+}
+
+.box3{
+    background-color: yellow;
+    width: 20%;
+    height: 700px;
+    margin: 2cm 1cm ;
+
+}
+
+.box4{
+    background-color: maroon;
+    width: 20%;
+    height: 700px;
+    margin: 2cm 1cm ;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 300px;
+    margin: 1cm;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: maroon;
+}
+
+img{
+    width: 300px;
+    height: 250px;
+    margin: 1cm;
+}
